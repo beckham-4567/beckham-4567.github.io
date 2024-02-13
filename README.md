@@ -1,5 +1,5 @@
 # My Lecture Note
-![](https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_640.jpg)
+![](https://preview.redd.it/since-dmc-5s-release-vergil-has-become-an-iconic-character-v0-8a0wds8pzwmb1.jpg?width=1080&crop=smart&auto=webp&s=d5c0da91cdcd31e0c793168bb8f579a22241c2d0)
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
