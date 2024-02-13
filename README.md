@@ -1,5 +1,5 @@
 # My Lecture Note
-![](https://images.pexels.com/photos/2781760/pexels-photo-2781760.jpeg?auto=compress&cs=tinysrgb&w=600))
+![](https://images.pexels.com/photos/2781760/pexels-photo-2781760.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
