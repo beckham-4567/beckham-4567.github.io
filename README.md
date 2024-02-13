@@ -1,9 +1,9 @@
 # My Lecture Note
-![](https://images.pexels.com/photos/2781760/pexels-photo-2781760.jpeg?auto=compress&cs=tinysrgb&w=600)
+![](https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_640.jpg)
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
-![download banner](./![peaceful_place_2-wallpaper-1920x1080](https://github.com/beckham-4567/beckham-4567.github.io/assets/159878216/2fe84e13-f55d-4069-a716-b20a51956f1f)
+![](./![peaceful_place_2-wallpaper-1920x1080](https://github.com/beckham-4567/beckham-4567.github.io/assets/159878216/2fe84e13-f55d-4069-a716-b20a51956f1f)
 
 BabySTEVE
 
