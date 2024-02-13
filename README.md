@@ -12,12 +12,15 @@
 git status
 git add
 git commit
+
 '''
 
 ## คำสั่ง python พื้นฐาน
-''' python
+''' 
+python
   
   d = {'anna': 3.99, 'betty' : 3.78}
   for k,y in d.item():
   print(k,y)
+  
 '''
