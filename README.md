@@ -17,7 +17,8 @@ git commit
 
 ## คำสั่ง python พื้นฐาน
 ''' python
-d = {'anna': 3.99, 'betty' : 3.78}
-for k,y in d.item():
+  
+  d = {'anna': 3.99, 'betty' : 3.78}
+  for k,y in d.item():
   print(k,y)
 '''
