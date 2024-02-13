@@ -1,5 +1,5 @@
 # My Lecture Note
-![banner](https://www.uhdpaper.com/](https://as1.ftcdn.net/v2/jpg/06/27/32/78/1000_F_627327855_qofxDgXea4mG811FSIkBXuCae9ADQg94.jpg))
+![](https://images.pexels.com/photos/2781760/pexels-photo-2781760.jpeg?auto=compress&cs=tinysrgb&w=600))
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
