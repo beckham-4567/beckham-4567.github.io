@@ -20,3 +20,4 @@ git commit
   for k,y in d.item():
   print(k,y)
 '''
+ทวีทรัพย์ ดีแสน
