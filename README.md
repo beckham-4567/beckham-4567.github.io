@@ -1,5 +1,5 @@
 # My Lecture Note
-![banner](https://cdn.pixabay.com/photo/2018/08/21/23/29/forest-3622519_640.jpg)
+![](https://cdn.pixabay.com/photo/2018/08/21/23/29/forest-3622519_640.jpg)
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
