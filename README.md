@@ -3,7 +3,7 @@
 
 สำหรับรายวิชา [OOP](https://beckham-4567.github.io)
 
-![](./![00-featured-tom-reading-newspaper-meme-template-preview](https://github.com/beckham-4567/beckham-4567.github.io/assets/159878216/1e52bcb1-1ce7-4d99-84aa-96f2a58800b7)
+!(./![00-featured-tom-reading-newspaper-meme-template-preview](https://github.com/beckham-4567/beckham-4567.github.io/assets/159878216/1e52bcb1-1ce7-4d99-84aa-96f2a58800b7)
 
 
 
