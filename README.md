@@ -5,22 +5,42 @@
 
 ![00-featured-tom-reading-newspaper-meme-template-preview](https://github.com/beckham-4567/beckham-4567.github.io/assets/159878216/1e52bcb1-1ce7-4d99-84aa-96f2a58800b7)
 
-ทวีทรัพย์ ดีแสน
 
 ## คำสั่ง git พื้นฐาน
 '''
 git status
 git add
 git commit
-
 '''
 
 ## คำสั่ง python พื้นฐาน
-''' 
-python
+''' python
   
   d = {'anna': 3.99, 'betty' : 3.78}
   for k,y in d.item():
   print(k,y)
-  
 '''
+## เริ่มต้นพัฒนา streamlit
+
+1. clone จาก ninasombat
+
+   git clone https://github.com/ninasombat/ninasombat.github.io
+
+2. deactivate
+
+   conda deactivate
+
+3. สร้างสภาพแวดล้อมใหม่
+
+   python -m venv venv
+
+4. activate สภาพแวดล้อมใหม่
+
+   venv/scripts/activate
+
+5. ติดตั้ง streamlit
+
+   pip install streamlit
+
+
+ทวีทรัพย์ ดีแสน
